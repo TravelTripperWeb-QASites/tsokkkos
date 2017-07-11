@@ -1,5 +1,19 @@
 {
-  "name": {
+  "Title": {
     "required": true
+  },
+  "Upload File": {
+    "type": "image",
+    "required": true
+  },
+  "Details":{
+  "type": "richtext"
+  },
+  "Testing File": {
+    "type": "image",
+    "required": true
+  },
+   "desc":{
+  "type": "richtext"
   }
 }
