@@ -1,0 +1,3 @@
+---
+- events: events/
+- test: http://google.com/
