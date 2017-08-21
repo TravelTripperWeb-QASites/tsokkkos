@@ -1,0 +1,17 @@
+{
+  "name": "car",
+  "file_name": "car.jpeg",
+  "file_type": "image/jpeg",
+  "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/342_455_566/media/2017-08-21-011801/car.jpeg",
+  "date_added": "2017-08-21 01:18:19",
+  "tags": "",
+  "file_size": 8251.0,
+  "width": 275,
+  "height": 183,
+  "description": "",
+  "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/342_455_566/media/2017-08-21-011801/large_car.jpeg",
+  "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/342_455_566/media/2017-08-21-011801/medium_car.jpeg",
+  "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/342_455_566/media/2017-08-21-011801/small_car.jpeg",
+  "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/342_455_566/media/2017-08-21-011801/xsmall_car.jpeg",
+  "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/342_455_566/media/2017-08-21-011801/thumb_car.jpeg"
+}
