@@ -1,0 +1,17 @@
+{
+  "name": "happiness",
+  "file_name": "happiness.jpg",
+  "file_type": "image/jpeg",
+  "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/342_455_566/media/2017-08-21-014807/happiness.jpg",
+  "date_added": "2017-08-21 01:48:27",
+  "tags": "",
+  "file_size": 12152.0,
+  "width": 287,
+  "height": 176,
+  "description": "",
+  "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/342_455_566/media/2017-08-21-014807/large_happiness.jpg",
+  "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/342_455_566/media/2017-08-21-014807/medium_happiness.jpg",
+  "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/342_455_566/media/2017-08-21-014807/small_happiness.jpg",
+  "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/342_455_566/media/2017-08-21-014807/xsmall_happiness.jpg",
+  "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/342_455_566/media/2017-08-21-014807/thumb_happiness.jpg"
+}
